@@ -5,3 +5,5 @@ GeoServer Install
 	Install Files - https://geoserver.org/
 	Forum - https://gis.stackexchange.com/questions/343105/displaying-data-from-standalone-postgis-using-arcgis-api-for-javascript	
 	Forum -	https://community.esri.com/t5/arcgis-javascript-maps-sdk-questions/how-to-display-wms-layer-from-geoserver-in-arcgis/td-p/686532	
+	google search - https://www.google.com/search?q=display+and+edit+postgres+data+to+a+leaflet+map+js&sca_esv=f6861048bb8aaca5&ei=MOkQaIOpNre3wN4PkIzm0Ak&ved=0ahUKEwiDgdnRwP2MAxW3G9AFHRCGGZoQ4dUDCBA&uact=5&oq=display+and+edit+postgres+data+to+a+leaflet+map+js&gs_lp=Egxnd3Mtd2l6LXNlcnAiMmRpc3BsYXkgYW5kIGVkaXQgcG9zdGdyZXMgZGF0YSB0byBhIGxlYWZsZXQgbWFwIGpzMgUQABjvBTIFEAAY7wUyCBAAGIAEGKIEMgUQABjvBUj2JVAAWO0hcAB4AJABAJgB5AGgAaIPqgEGNS4xMS4xuAEDyAEA-AEBmAIPoALVDMICChAhGKABGMMEGArCAggQIRigARjDBJgDAJIHBDQuMTGgB7A_sgcENC4xMbgH1Qw&sclient=gws-wiz-serp
+	
