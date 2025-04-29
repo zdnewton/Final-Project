@@ -1,0 +1,7 @@
+Tutorial on adding geometry collumns to postgres tables
+	https://www.youtube.com/watch?v=Axnx7-S-s2k
+
+GeoServer Install
+	Install Files - https://geoserver.org/
+	Forum - https://gis.stackexchange.com/questions/343105/displaying-data-from-standalone-postgis-using-arcgis-api-for-javascript	
+	Forum -	https://community.esri.com/t5/arcgis-javascript-maps-sdk-questions/how-to-display-wms-layer-from-geoserver-in-arcgis/td-p/686532	
